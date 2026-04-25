@@ -53,13 +53,13 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ### Raytracer
 
-[**miniRT**](https://github.com/usvapel/minirt) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125/125-brightgreen?style=plastic) ![Outstanding project: 2/3](https://img.shields.io/badge/Outstanding%20project-⭐⭐☆-blue?style=plastic)
+[**miniRT**](https://github.com/usvapel/minirt) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125/100-brightgreen?style=plastic) ![Outstanding project: 2/3](https://img.shields.io/badge/Outstanding%20project-⭐⭐☆-blue?style=plastic)
 > -  
 
 ---
 
 ### irc server
-[**ft_irc**](https://github.com/etherstep/irc-server) &nbsp;![Grade: 110](https://img.shields.io/badge/Grade-110/110-brightgreen?style=plastic)
+[**ft_irc**](https://github.com/etherstep/irc-server) &nbsp;![Grade: 110](https://img.shields.io/badge/Grade-110/100-brightgreen?style=plastic)
 > -  
 
 ---
