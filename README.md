@@ -57,3 +57,9 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 > -  
 
 ---
+
+### irc server
+[**ft_irc**](https://github.com/etherstep/irc-server) &nbsp;![Grade: 110](https://img.shields.io/badge/Grade-110/110-brightgreen?style=plastic)
+> -  
+
+---
